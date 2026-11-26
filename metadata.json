@@ -1,0 +1,8 @@
+{
+  "name": "Bharat Development Atlas",
+  "description": "Interactive public-data portal tracking India's economic, infrastructure, social welfare, digital, and clean energy indicators from 2014 to 2026 alongside official Viksit Bharat 2047 targets and independent institutional assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
